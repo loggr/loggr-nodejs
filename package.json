@@ -1,0 +1,26 @@
+{
+  "author": "Loggr.net <info@loggr.net>",
+  "name": "loggr",
+  "description": "Loggr agent for Nodejs",
+  "version": "1.0.0",
+  "homepage": "http://docs.loggr.net/agents/nodejs",
+  "repository": {
+    "url": "https://github.com/loggr/loggr-nodejs",
+    "type": "git"
+  },
+  "keywords": [
+    "cloud computing",
+    "api",
+    "logging",
+    "loggr",
+    "monitoring",
+    "analytics"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "main": "./lib/loggr",
+  "engines": {
+    "node": "*"
+  }
+}
