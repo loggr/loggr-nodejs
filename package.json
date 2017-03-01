@@ -2,7 +2,7 @@
   "author": "Loggr.net <info@loggr.net>",
   "name": "loggr",
   "description": "Loggr agent for Nodejs",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "homepage": "http://docs.loggr.net/agents/nodejs",
   "repository": {
     "url": "https://github.com/loggr/loggr-nodejs",
@@ -17,7 +17,6 @@
     "analytics"
   ],
   "dependencies": {
-    "http": "0.0.0"
   },
   "devDependencies": {},
   "optionalDependencies": {},
